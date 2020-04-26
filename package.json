@@ -5,5 +5,8 @@
     "type" : "git",
     "url": "git+https://github.com/RA80533/s2sl2.git"
   },
+  "engines": {
+    "node": ">=12.0.0"
+  },
   "private": true
 }
