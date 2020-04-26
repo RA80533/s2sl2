@@ -1,6 +1,7 @@
 {
   "name": "s2sl2",
   "version" : "0.0.0",
+  "license": "MIT",
   "repository": {
     "type" : "git",
     "url": "git+https://github.com/RA80533/s2sl2.git"
